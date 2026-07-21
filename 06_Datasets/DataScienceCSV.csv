@@ -1,0 +1,24 @@
+id,name,gender,birth_date,address,salary,Type
+1,mg mg,M,1/1/2000,BKK,500,Junior
+2,ko ko,M,9/9/1999,BKK,10000,Mid
+3,zin zin,F,1/2/2000,KPU,600,Junior
+4,mama,F,9/10/1999,YGN,700,Junior
+5,to to,F,1/3/2000,SG,16000,Manager
+6,zz,F,1/4/2000,SG,16001,Manager
+7,ll,F,1/5/2000,SG,16002,Manager
+8,pp,F,1/6/2000,SG,16003,Manager
+9,oo,F,1/7/2000,MDY,16004,Manager
+10,ss,F,1/8/2000,MDY,16005,Manager
+11,mm,F,1/9/2000,MDY,16006,Manager
+12,kk,F,1/10/2000,ST,16007,Manager
+13,yy,F,1/11/2000,ST,16008,Manager
+14,rr,F,1/12/2000,SG,16009,Manager
+15,ee,F,9/10/1999,YGN,700,Junior
+16,rrs,M,5/9/1999,BKK,700,Junior
+17,ffd,M,1/5/1999,KPU,700,Junior
+18,ttt,M,9/3/1998,BKK,700,Junior
+19,yyr,M,5/2/1998,KPU,700,Junior
+20,ooo,F,12/29/1997,BKK,10000,Mid
+21,ppp,F,8/27/1997,KPU,12000,Mid
+22,llllr,F,4/25/1997,BKK,14000,Mid
+23,yyyk,M,12/22/1996,SG,16000,Mid
